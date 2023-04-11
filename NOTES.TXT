@@ -1,0 +1,5 @@
+terdiri dari 2 file (front & back)
+
+JALANKAN => php artisan migrate:fresh
+FRONTEND => php artisan serve --port=8000
+BACKEND => php artisan serve --port=8080
